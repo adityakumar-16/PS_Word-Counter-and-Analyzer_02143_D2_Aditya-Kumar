@@ -1,0 +1,18 @@
+
+Project Name: Word Counter and Analyzer
+
+This project is developed using Python.
+
+The program reads text from a file and performs different text analysis operations.
+
+Main Features:
+1. Counts the total number of words.
+2. Counts the total number of characters.
+3. Counts the total number of lines.
+4. Finds the frequency of each word.
+5. Identifies the most frequently used words.
+6. Displays useful text statistics.
+
+The program uses Python functions and string operations to analyze the given text.
+
+This project helps users understand and analyze text easily.
